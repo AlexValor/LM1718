@@ -1,0 +1,33 @@
+<prediccionmeteo>
+	<pueblo>
+		<DosHermanas>
+			<fecha>
+				<dia>25</dia>
+				<mes>Octubre</mes>
+				<año>2011</año>
+			</fecha>
+			<probprecipitacion>55%</probprecipitacion>
+			<estadocielo>Intervalos nubosos</estadocielo>
+			<viento>
+				<direccion>Suroeste</direccion>
+				<velocidad>10Km/h</velocidad>
+			</viento>
+			<temperatura>
+				<maxima>21ºC</maxima>
+				<minima>10ºC</minima>
+			</temperatura>
+			<sensaciontermica>
+				<s.t.maxima>21ºC</s.t.maxima>
+				<s.t.minima>10ºC</s.t.minima>
+			</sensaciontermica>
+			<humedadrelativa>
+				<h.r.maxima>90%</h.r.maxima>
+				<h.r.minima>50/</h.r.minima>
+			</humedadrelativa>
+			<indiceultravioleta>3</indiceultravioleta>
+		</DosHermanas>
+	</pueblo>
+</prediccionmeteo>							
+				
+					
+				

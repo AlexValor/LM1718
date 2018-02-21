@@ -8,7 +8,7 @@ for provincia in provincias:
 	nombre = provincia.find("nombre")
 	if nombre.text == provinciabuscar:
 		for localidades in provincia.findall("localidades/localidad"):
-			if localidad.attrib["c"]==1:
+			if localidades.attrib["c"]=="1":
 				print(localidad.text)
 			else:
 				print("No existe la provincia")	
